@@ -1,5 +1,6 @@
 
 void main(){
+  
 // Question no: 1
 int length = 50;
 int breadth = 100;
